@@ -1,6 +1,5 @@
 # Energy-Consumption-Forecast
 
-<<<<<<< HEAD
 # Abstract
 
 ### What problem our project addresses:
@@ -44,7 +43,7 @@
 
 - Dataset from kaggle.com:
 
-“Hourly energy demand generation and weather”
+“Hourly Energy Demand Generation and Weather”
 
 https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather
 
@@ -69,7 +68,7 @@ https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-pric
 
 # Ethics Statement
 
-1. What groups of people have the potential to benefit from our project?
+#### 1. What groups of people have the potential to benefit from our project?
 
 - People who seek to reduce their energy consumption or expenditure on energy.
 
@@ -77,19 +76,19 @@ https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-pric
 
 - Environmental activists.
 
-2. What groups of people have the potential to be excluded from benefit or even harmed from our project?
+#### 2. What groups of people have the potential to be excluded from benefit or even harmed from our project?
 
 - If companies try to earn more revenues by raising unit electricity price according to the energy consumption prediction, then households will be harmed.
 
 - The prediction might not be applicable to people in some other regions (e.g. prediction based on data from developed countries may not be applicable to undeveloped ones; predictions based on urban areas may not be applicable to rural areas.)
 
-3. Will the world become an overall better place because we made our project?
+#### 3. Will the world become an overall better place because we made our project?
 
 - Yes! Because our project could potentially help government to make better environmental policies or arrangements that can possibly reduce energy consumption:
 
-1. Our world will become more sustainable if energy-saving strategies can be improved based on our prediction.
+(1) Our world will become more sustainable if energy-saving strategies can be improved based on our prediction.
 
-2. Households will be able to save more money if they adjust their energy consumption according to our prediction.
+(2) Households will be able to save more money if they adjust their energy consumption according to our prediction.
 
 # Tentative Timeline
 
@@ -132,11 +131,3 @@ https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-pric
 - Complete the written part of our Blog Post
 
 - Prepare for presentation
-
-
-
-=======
-### Abstract
-
-### Motivation and Question
->>>>>>> 5d8bd2eab0165df66f787cf574a09a17f0770cbc
