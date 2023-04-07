@@ -1,12 +1,12 @@
 # Energy-Consumption-Forecast
 
-# Abstract
+## Abstract
 
-### What problem our project addresses:
+#### What problem our project addresses:
 
 - Due to climate change and modernization, people use more energy than before, which may potentially bring a burden to our environment (as more energy will need to be produced) and see an increase in utility expenses related to energy consumption. Therefore, our project aims to study and predict the pattern of energy consumption, and possibly make some suggestions in energy management and policy-making that will bring benefits to our environment and society.
 
-### The overall approach we will use to solve the problem:
+#### The overall approach we will use to solve the problem:
 
 - Experiment with different machine learning algorithms (linear and nonlinear models) to see which model can achieve the highest accuracy and efficiency in predicting energy consumption.
 
@@ -15,14 +15,14 @@
 - Detailed analysis and evaluation of the results.
 
 
-### How we propose to evaluate our success against our stated goals:
+#### How we propose to evaluate our success against our stated goals:
 
 - Determine whether our machine learning model can achieve a certain level of accuracy (above 85%).
 
 - Whether we can derive a couple of valuable suggestions from our results.
 
 
-# Motivation and Question
+## Motivation and Question
 
 - We have a scientific data set for which predictive or exploratory models would help us generate hypotheses and find patterns.
 
@@ -39,7 +39,7 @@
 - Successfully create a code repository to showcase the machine learning pipeline to predict electricity demand or price, yet the result may not be as accurate as expected.
 
 
-# Resources Required
+## Resources Required
 
 - Dataset from kaggle.com:
 
@@ -48,7 +48,7 @@
 https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather
 
 
-# What You Will Learn
+## What You Will Learn
 
 - How to work as a team efficiently and support each other.
 
@@ -58,7 +58,7 @@ https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-pric
 
 - Try to apply knowledge learned in class and implement machine learning models to solve real-world problems.
 
-# Risk Statement
+## Risk Statement
 
 - The features we select may not be the “best” ones for predictions.
 
@@ -66,7 +66,7 @@ https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-pric
 
 - There might not be very clear and explainable patterns based on our dataset.
 
-# Ethics Statement
+## Ethics Statement
 
 #### 1. What groups of people have the potential to benefit from our project?
 
@@ -90,7 +90,7 @@ https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-pric
 
 (2) Households will be able to save more money if they adjust their energy consumption according to our prediction.
 
-# Tentative Timeline
+## Tentative Timeline
 
 **Week 8:**
 
