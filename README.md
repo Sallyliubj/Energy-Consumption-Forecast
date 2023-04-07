@@ -1,5 +1,6 @@
 # Energy-Consumption-Forecast
 
+<<<<<<< HEAD
 # Abstract
 
 ### What problem our project addresses:
@@ -134,3 +135,8 @@ https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-pric
 
 
 
+=======
+### Abstract
+
+### Motivation and Question
+>>>>>>> 5d8bd2eab0165df66f787cf574a09a17f0770cbc
