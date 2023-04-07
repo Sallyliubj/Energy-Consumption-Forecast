@@ -1,5 +1,7 @@
 # Energy-Consumption-Forecast
 
+Sally Liu, Charlotte Zhuang
+
 ## Abstract
 
 #### What problem our project addresses:
